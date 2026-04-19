@@ -57,7 +57,7 @@ Não há build obrigatório — é um app **estático**.
 ### Opção 1 — Acesso Direto (Web & Mobile)
 Acesse a versão final publicada e pronta para uso. O deploy é feito automaticamente a cada atualização.
 
-👉 **[Visualizar App ao Vivo](https://seu-link-aqui.netlify.app)**
+👉 **[Visualizar App ao Vivo](https://school-grade-dashboard.netlify.app/)**
 
 > **Dica PWA:** No celular, use a opção "Adicionar à tela inicial" no menu do navegador para instalar o app e utilizá-lo em modo *standalone* (sem as barras do browser).
 
