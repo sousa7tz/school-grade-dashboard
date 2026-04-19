@@ -1,4 +1,4 @@
-# School Grade Dashboard
+# School Grade Dashboard | SGDash
 
 > **MVP de alta fidelidade** desenvolvido em tempo recorde através de orquestração de IA, focado em UX mobile-first e arquitetura modular moderna.
 
